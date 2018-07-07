@@ -1,0 +1,35 @@
+{
+	"name": "node-novacredit",
+	"version": "1.0.0",
+	"description": "Example integration with Nova Credit in Node",
+	"scripts": {
+		"start": "node index.js",
+		"test": "mocha test.js"
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git"
+	},
+	"keywords": [
+		"Nova",
+		"Credit"
+	],
+	"author": "Nova Credit",
+	"homepage": "https://github.com/neednova",
+	"dependencies": {
+		"body-parser": "1.18.3",
+		"ejs": "^2.6.1",
+		"dotenv": "6.0.0",
+		"express": "4.16.3",
+		"request": "^2.87.0",
+		"request-promise-native": "1.0.5"
+	},
+	"devDependencies": {
+		"mocha": "5.2.0",
+		"supertest": "3.1.0"
+	},
+	"engines": {
+		"node": "8.11.x"
+	},
+	"license": "MIT"
+}

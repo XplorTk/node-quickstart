@@ -1,0 +1,7 @@
+.DS_STORE
+
+# Dependency directories
+node_modules/
+
+# environment variables file - You should uncomment this in production
+# .env
