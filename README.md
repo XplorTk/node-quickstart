@@ -8,7 +8,7 @@ This app is designed to demonstrate how you might integrate with the Nova Credit
 - Receive notification on the status of a foreign credit file and retrieve the data from the applicant's foreign credit file via serverside webhook
 - Example of how you might parse the Nova Credit Passport data and integrate it into your existing underwriting
 
-Please note that while these examples work, this sample app was designed for simplicity and clarity, rather than robustness. Comments are included within the source code to provide context and give best practice suggestions for how you might securely access and store Nova Credit data. These examples are not designed for production use out of the box.
+Please note that while these examples work, this sample app was designed for simplicity and clarity, rather than robustness. Comments are included within the source code to provide context and give best practice suggestions for how you might securely access and store Nova Credit data. These examples are not designed for production use out of the box. This example only provides access to fake, test data.
 
 
 
