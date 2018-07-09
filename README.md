@@ -18,6 +18,7 @@ Please note that while these examples work, this sample app was designed for sim
 - [Context](#context)
 - [Getting set up](#getting-set-up)
 - [Running the code](#run-via-heroku)
+- [Resources](#resources)
 
 
 
@@ -85,3 +86,7 @@ Alternatively, you may run this source code locally by exposing it to the intern
 6. Navigate to `/dashboard` (via your localhost or Heroku app). This renders a sample internal dashboard that your loan officers might use to make a credit decision.
    * Try changing the logic in `utils.js > parseNovaPassport` to see how you might use the Nova Credit Passport data!
    * If you are using Heroku, you will need to redeploy your app to see any code adjustments you make.
+
+## Resources
+- [Docs](https://docs.neednova.com/)
+- [Quickstart](https://www.novacredit.com/quickstart-guide)
